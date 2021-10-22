@@ -5,8 +5,8 @@ Um simples aplicativo da web de gerenciamento de tarefas utilizando as operaçõ
 ## ℹ Sobre o projeto 
 
 <ul>
-    <li>O usuário pode escrever o título e a descrição da tarefas no input e pode adicionar os itens pressionando o botão <u>“Adicionar”</u>.</li>
-    <li>O usuário escolhe a prioridade do item entre <u>baixa/media/alta.</u> Cada um dessas prioriedades e marcada com um cor diferente</li>
+    <li>O usuário pode escrever o título e a descrição da tarefas no input e pode adicionar os itens pressionando o botão <ins>“Adicionar”</ins>.</li>
+    <li>O usuário escolhe a prioridade do item entre <ins>baixa/media/alta.</ins> Cada um dessas prioriedades e marcada com um cor diferente</li>
     <li>Cada vez que o usuário adiciona um item, todos os itens são exibidos na tela, pelo o mais novo para o mais velho</li>
     <li>O usuário pode alterar o status dos itens de ativo para concluído ou vice-versa, apenas clicando sobre eles. Os itens concluídos aparecem com um riscado.</li>
     <li>O usuário editar o título, a descrição e a prioridade dos itens</li>
